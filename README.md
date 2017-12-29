@@ -1,5 +1,7 @@
 # K66 LQFP
 
+**UNTESTED**
+
 Kicad component for the LQFP version of the K66 as used in Teensy 3.6.
 
 ## Links
