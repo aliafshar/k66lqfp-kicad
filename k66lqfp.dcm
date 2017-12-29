@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK66FX1M0
+D NXP MK66FX1M0 LQFP 144
+K NXP MCU ARM
+F /home/afshar/K66P144M180SF5V2.pdf
+$ENDCMP
+#
+#End Doc Library
